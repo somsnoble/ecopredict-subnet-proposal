@@ -1,0 +1,4 @@
+[tool.poetry]
+name = "ecopredict"
+version = "0.1.0"
+description = "Bittensor subnet for environmental forecasting"

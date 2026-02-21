@@ -1,0 +1,6 @@
+bittensor>=6.0.0  # Core Bittensor SDK
+torch             # For AI models
+numpy             # Data processing
+requests          # For data oracles (e.g., weather APIs)
+pandas            # Handling environmental datasets
+concrete-ml       # Optional: If adding FHE-inspired privacy later
